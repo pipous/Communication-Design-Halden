@@ -52,10 +52,10 @@ a {
     border: 1px solid rgba(55,155, 155, 0.7);
     border-radius: 5%;
     padding: 20px;
-    font-size: 30px;
     text-align: center;
     background-color: rgb(142, 162, 198,0.6);
-    height: 90%;
+    height: 85%;
+    
 }
 
 .history {
@@ -92,8 +92,28 @@ a {
 
 .title{
     text-align: center;
+    font-size:50px;
+    color:  #080841;
+    margin: 0px;
+    
 }
 
 .texte{
-    background-color: rgb(142, 162, 198,0.4) ;
+    background-color: rgb(142, 162, 198,0.5) ;
+}
+
+p{
+    margin: 10px;
+}
+
+.date{
+    text-align: center;
+    padding: 10px;
+    font-size: 32px;
+    color:  #000080;
+}
+
+.important{
+    font-size: 38px;
+    text-align: center;
 }
